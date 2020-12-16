@@ -1,3 +1,4 @@
 # log-in-systeme
-youtube : youtube.com/channel/UC92gG4BBWAYu4vw_OgsgSLA?view_as=subscriber
-you will need to keep all the files in one place for a fully working programme
+
+you will need to keep all the files in one place for a fully working programme.
+gonna update it to save data in a separate sql server
